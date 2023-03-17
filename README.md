@@ -1,4 +1,4 @@
-DinoRun: 
+DinoRun in Python: 
 Description: The Dino_Run_Capstone(2).py program demonstrates the Dino Run game with additional features and original
 graphics.The user can press 'space' for the dino to jump, 'P' or 'p' to pause and unpause and 'R' or 'r' to restart
 the game. There are two kinds obstacles in the game, the cacti and a thunder. Every 100 points the cacti start
